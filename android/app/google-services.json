@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637261755202",
+    "project_id": "sji-info",
+    "storage_bucket": "sji-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637261755202:android:5737ea6cccb77a7c544edb",
+        "android_client_info": {
+          "package_name": "com.sjinnovation.sji_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637261755202-91t7uk3rf1bfig73gvkvcgnu0k6j0a5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vGLQlbXK4e9yt3Jb1asFy6DIdE5pEY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637261755202-91t7uk3rf1bfig73gvkvcgnu0k6j0a5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
